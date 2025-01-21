@@ -7,7 +7,7 @@ export function DefaultLayout() {
       <div>
         <Header />
       </div>
-      <div>
+      <div className="pt-[80px]">
         <Outlet />
       </div>
     </div>
