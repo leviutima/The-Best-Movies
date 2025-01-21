@@ -7,7 +7,7 @@ export function DefaultLayout() {
       <div>
         <Header />
       </div>
-      <div className="pt-[80px]">
+      <div className="pt-[80px] bg-zinc-800 min-h-screen">
         <Outlet />
       </div>
     </div>

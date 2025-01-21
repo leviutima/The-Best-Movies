@@ -1,0 +1,81 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "nome": "Levi",
+            "sobrenome": "Utima",
+            "email": "joao.silva@example.com",
+            "senha": "123456",
+            "role": "admin",
+            "descricao": "Administrador do sistema com acesso total.",
+            "profile_pic": "https://www.example.com/images/joao.jpg"
+          },
+          {
+            "id": 2,
+            "nome": "Maria",
+            "sobrenome": "Karime",
+            "email": "maria.karime@example.com",
+            "senha": "password123",
+            "role": "user",
+            "descricao": "Usuária regular com permissões limitadas.",
+            "profile_pic": "https://www.example.com/images/maria.jpg"
+          },
+          {
+            "id": 3,
+            "nome": "Carlos",
+            "sobrenome": "Pereira",
+            "email": "carlos.pereira@example.com",
+            "senha": "mypassword",
+            "role": "user",
+            "descricao": "Usuário com acesso para visualizar conteúdos.",
+            "profile_pic": "https://www.example.com/images/carlos.jpg"
+          }
+    ],
+    "movies": [
+        {
+            "id": 1,
+            "nome": "O Poderoso Chefão",
+            "ano_lancamento": 1972,
+            "descricao": "A história de uma poderosa família mafiosa e seus conflitos internos.",
+            "tempo_filme": "2h 55m",
+            "url": "https://www.example.com/movies/o-poderoso-chefao",
+            "categoria": "Drama"
+          },
+          {
+            "id": 2,
+            "nome": "Titanic",
+            "ano_lancamento": 1997,
+            "descricao": "Uma história de amor ambientada no fatídico naufrágio do RMS Titanic.",
+            "tempo_filme": "3h 14m",
+            "url": "https://www.example.com/movies/titanic",
+            "categoria": "Romance"
+          },
+          {
+            "id": 3,
+            "nome": "Matrix",
+            "ano_lancamento": 1999,
+            "descricao": "Um hacker descobre que a realidade que ele conhece é uma simulação controlada por máquinas.",
+            "tempo_filme": "2h 16m",
+            "url": "https://www.example.com/movies/matrix",
+            "categoria": "Ficção Científica"
+          },
+          {
+            "id": 4,
+            "nome": "O Rei Leão",
+            "ano_lancamento": 1994,
+            "descricao": "A história de Simba, um jovem leão que luta para reivindicar seu lugar como rei da savana.",
+            "tempo_filme": "1h 28m",
+            "url": "https://www.example.com/movies/o-rei-leao",
+            "categoria": "Animação"
+          },
+          {
+            "id": 5,
+            "nome": "Vingadores: Ultimato",
+            "ano_lancamento": 2019,
+            "descricao": "Os Vingadores tentam reverter os danos causados por Thanos em sua busca por vingança.",
+            "tempo_filme": "3h 2m",
+            "url": "https://www.example.com/movies/vingadores-ultimato",
+            "categoria": "Ação"
+          }
+    ]
+}

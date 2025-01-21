@@ -19,7 +19,7 @@ export function Home() {
                 alt=""
                 className="bg-no-repeat bg-cover bg-center w-full h-full object-cover"
               />
-              <div className="absolute inset-0 bg-gradient-to-b from-black/100 via-transparent to-black/30"></div>
+              <div className="absolute inset-0 bg-gradient-to-b from-black/100 via-transparent to-black/100"></div>
             </CarouselItem>
 
             <CarouselItem>...</CarouselItem>
