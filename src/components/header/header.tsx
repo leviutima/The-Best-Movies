@@ -16,7 +16,7 @@ export function Header() {
             <Input
               type="text"
               placeholder="Pesquisar..."
-              className="w-full px-12 py-2 border border-gray-300 rounded-lg bg-black placeholder:text-white"
+              className="w-full px-12 py-2 border border-gray-300 rounded-lg bg-black placeholder:text-white text-white"
             />
           </div>
           <ul className="flex items-center gap-12 text-white">
